@@ -1,0 +1,358 @@
+{
+  "mockup": {
+    "controls": {
+      "control": [
+        {
+          "ID": "7",
+          "measuredH": "32",
+          "measuredW": "209",
+          "properties": {
+            "align": "center",
+            "color": "16776960",
+            "size": "18",
+            "text": "HTTP/HTTPS and APIs"
+          },
+          "typeID": "TextInput",
+          "w": "259",
+          "x": "634",
+          "y": "312",
+          "zOrder": "0"
+        },
+        {
+          "ID": "8",
+          "measuredH": "25",
+          "measuredW": "260",
+          "properties": {
+            "bold": "true",
+            "size": "17",
+            "text": "Required for any developer path"
+          },
+          "typeID": "Label",
+          "x": "67",
+          "y": "45",
+          "zOrder": "1"
+        },
+        {
+          "ID": "9",
+          "measuredH": "32",
+          "measuredW": "192",
+          "properties": {
+            "align": "center",
+            "color": "16776960",
+            "size": "18",
+            "text": "Basic Terminal Usage"
+          },
+          "typeID": "TextInput",
+          "w": "259",
+          "x": "61",
+          "y": "305",
+          "zOrder": "2"
+        },
+        {
+          "ID": "21",
+          "measuredH": "32",
+          "measuredW": "166",
+          "properties": {
+            "align": "center",
+            "color": "16776960",
+            "size": "18",
+            "text": "Learn to Research"
+          },
+          "typeID": "TextInput",
+          "w": "258",
+          "x": "350",
+          "y": "305",
+          "zOrder": "3"
+        },
+        {
+          "ID": "24",
+          "measuredH": "32",
+          "measuredW": "255",
+          "properties": {
+            "align": "center",
+            "color": "16776960",
+            "size": "18",
+            "text": "Data Structures & Algorithms"
+          },
+          "typeID": "TextInput",
+          "w": "258",
+          "x": "61",
+          "y": "576",
+          "zOrder": "5"
+        },
+        {
+          "ID": "25",
+          "measuredH": "32",
+          "measuredW": "188",
+          "properties": {
+            "align": "center",
+            "color": "16776960",
+            "size": "18",
+            "text": "Character Encodings"
+          },
+          "typeID": "TextInput",
+          "w": "258",
+          "x": "350",
+          "y": "576",
+          "zOrder": "6"
+        },
+        {
+          "ID": "28",
+          "measuredH": "32",
+          "measuredW": "146",
+          "properties": {
+            "align": "center",
+            "color": "16776960",
+            "size": "18",
+            "text": "Design Patterns"
+          },
+          "typeID": "TextInput",
+          "w": "258",
+          "x": "635",
+          "y": "576",
+          "zOrder": "7"
+        },
+        {
+          "ID": "31",
+          "h": "157",
+          "measuredH": "140",
+          "measuredW": "200",
+          "properties": {
+            "color": "15658734",
+            "text": "basic communication system on request and serve, along with capability to learn how one API works, differ from the other, and optimized in your own projects"
+          },
+          "typeID": "TextArea",
+          "w": "258",
+          "x": "634",
+          "y": "344",
+          "zOrder": "10"
+        },
+        {
+          "ID": "32",
+          "children": {
+            "controls": {
+              "control": [
+                {
+                  "ID": "0",
+                  "h": "121",
+                  "measuredH": "140",
+                  "measuredW": "200",
+                  "properties": {
+                    "color": "15658734",
+                    "text": " \nCreate a profile. Explore relevant open source projects. Make a habit of looking under the hood of projects you like. Create and contribute to open source projects."
+                  },
+                  "typeID": "TextArea",
+                  "w": "258",
+                  "x": "0",
+                  "y": "32",
+                  "zOrder": "0"
+                },
+                {
+                  "ID": "1",
+                  "measuredH": "32",
+                  "measuredW": "70",
+                  "properties": {
+                    "align": "center",
+                    "borderStyle": "rectangle",
+                    "color": "16776960",
+                    "size": "18",
+                    "text": "GitHub"
+                  },
+                  "typeID": "TextInput",
+                  "w": "258",
+                  "x": "0",
+                  "y": "0",
+                  "zOrder": "1"
+                }
+              ]
+            }
+          },
+          "h": "153",
+          "measuredH": "153",
+          "measuredW": "258",
+          "typeID": "__group__",
+          "w": "258",
+          "x": "634",
+          "y": "83",
+          "zOrder": "4"
+        },
+        {
+          "ID": "33",
+          "children": {
+            "controls": {
+              "control": [
+                {
+                  "ID": "0",
+                  "measuredH": "32",
+                  "measuredW": "50",
+                  "properties": {
+                    "align": "center",
+                    "color": "16776960",
+                    "size": "18",
+                    "text": "SSH"
+                  },
+                  "typeID": "TextInput",
+                  "w": "259",
+                  "x": "0",
+                  "y": "0",
+                  "zOrder": "0"
+                },
+                {
+                  "ID": "1",
+                  "h": "157",
+                  "measuredH": "140",
+                  "measuredW": "200",
+                  "properties": {
+                    "color": "15658734",
+                    "text": "a network protocol that provides administrators with a secure way to access a remote computer. SSH also refers to the suite of utilities that implement the protocol. Secure Shell provides strong authentication and secure encrypted data communications between two computers connecting over an insecure network such as the Internet"
+                  },
+                  "typeID": "TextArea",
+                  "w": "258",
+                  "x": "0",
+                  "y": "31",
+                  "zOrder": "1"
+                }
+              ]
+            }
+          },
+          "h": "188",
+          "measuredH": "188",
+          "measuredW": "259",
+          "typeID": "__group__",
+          "w": "259",
+          "x": "350",
+          "y": "81",
+          "zOrder": "9"
+        },
+        {
+          "ID": "34",
+          "children": {
+            "controls": {
+              "control": [
+                {
+                  "ID": "0",
+                  "measuredH": "32",
+                  "measuredW": "179",
+                  "properties": {
+                    "align": "center",
+                    "color": "16776960",
+                    "size": "18",
+                    "text": "Git - Version Control"
+                  },
+                  "typeID": "TextInput",
+                  "w": "258",
+                  "x": "0",
+                  "y": "0",
+                  "zOrder": "0"
+                },
+                {
+                  "ID": "1",
+                  "h": "121",
+                  "measuredH": "140",
+                  "measuredW": "200",
+                  "properties": {
+                    "color": "15658734",
+                    "text": "allows you to revert selected files back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more."
+                  },
+                  "typeID": "TextArea",
+                  "w": "258",
+                  "x": "0",
+                  "y": "29",
+                  "zOrder": "1"
+                }
+              ]
+            }
+          },
+          "h": "150",
+          "measuredH": "150",
+          "measuredW": "258",
+          "typeID": "__group__",
+          "w": "258",
+          "x": "68",
+          "y": "83",
+          "zOrder": "8"
+        },
+        {
+          "ID": "35",
+          "h": "157",
+          "measuredH": "140",
+          "measuredW": "200",
+          "properties": {
+            "color": "15658734",
+            "text": "be eager to learn something new (or something others already done). and creativity to hack and fit ready made libs and tools to cover your project needs. "
+          },
+          "typeID": "TextArea",
+          "w": "258",
+          "x": "350",
+          "y": "337",
+          "zOrder": "11"
+        },
+        {
+          "ID": "36",
+          "h": "157",
+          "measuredH": "140",
+          "measuredW": "200",
+          "properties": {
+            "color": "15658734",
+            "text": "learn it before you try to operate remote/cloud server. it's basic knowledge allows you to manipulating the server like your own machine except it use no GUI. "
+          },
+          "typeID": "TextArea",
+          "w": "258",
+          "x": "61",
+          "y": "337",
+          "zOrder": "12"
+        },
+        {
+          "ID": "37",
+          "h": "157",
+          "measuredH": "140",
+          "measuredW": "200",
+          "properties": {
+            "color": "15658734",
+            "text": "A good algorithm usually comes together with a set of good data structures that allow the algorithm to manipulate the data efficiently. You should learn and study the case the common data structures that are used in various computational problems"
+          },
+          "typeID": "TextArea",
+          "w": "258",
+          "x": "61",
+          "y": "608",
+          "zOrder": "13"
+        },
+        {
+          "ID": "38",
+          "h": "206",
+          "measuredH": "140",
+          "measuredW": "200",
+          "properties": {
+            "color": "15658734",
+            "text": "A character encoding tells the computer how to interpret raw zeroes and ones into real characters. It usually does this by pairing numbers with characters. Words and sentences in text are created from characters and these characters are grouped into a character set. There are many different types of character encodings floating around at present, but the ones we deal most frequently with are ASCII, 8-bit encodings, and Unicode-based encodings."
+          },
+          "typeID": "TextArea",
+          "w": "258",
+          "x": "350",
+          "y": "608",
+          "zOrder": "14"
+        },
+        {
+          "ID": "39",
+          "h": "157",
+          "measuredH": "140",
+          "measuredW": "200",
+          "properties": {
+            "color": "15658734",
+            "text": "a design pattern is a general repeatable solution to a commonly occurring problem in software design. A design pattern isn't a finished design that can be transformed directly into code. It is a description or template for how to solve a problem that can be used in many different situations."
+          },
+          "typeID": "TextArea",
+          "w": "258",
+          "x": "634",
+          "y": "608",
+          "zOrder": "15"
+        }
+      ]
+    },
+    "measuredH": "814",
+    "measuredW": "893",
+    "mockupH": "769",
+    "mockupW": "832",
+    "version": "1.0"
+  }
+}
